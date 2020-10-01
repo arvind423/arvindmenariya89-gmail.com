@@ -1,2 +1,1 @@
-# arvindmenariya89-gmail.com
-it is a frontend part of my gym website
+it's a simple gym webpage.
